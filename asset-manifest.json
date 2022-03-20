@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/multichain-nft-dashboard/static/css/main.3d3b2c2e.chunk.css",
+    "main.css": "/multichain-nft-dashboard/static/css/main.0923835a.chunk.css",
     "main.js": "/multichain-nft-dashboard/static/js/main.d5b5cf4c.chunk.js",
     "main.js.map": "/multichain-nft-dashboard/static/js/main.d5b5cf4c.chunk.js.map",
     "runtime-main.js": "/multichain-nft-dashboard/static/js/runtime-main.7e8a3bea.js",
@@ -8,7 +8,7 @@
     "static/js/2.edd8f32f.chunk.js": "/multichain-nft-dashboard/static/js/2.edd8f32f.chunk.js",
     "static/js/2.edd8f32f.chunk.js.map": "/multichain-nft-dashboard/static/js/2.edd8f32f.chunk.js.map",
     "index.html": "/multichain-nft-dashboard/index.html",
-    "static/css/main.3d3b2c2e.chunk.css.map": "/multichain-nft-dashboard/static/css/main.3d3b2c2e.chunk.css.map",
+    "static/css/main.0923835a.chunk.css.map": "/multichain-nft-dashboard/static/css/main.0923835a.chunk.css.map",
     "static/js/2.edd8f32f.chunk.js.LICENSE.txt": "/multichain-nft-dashboard/static/js/2.edd8f32f.chunk.js.LICENSE.txt",
     "static/media/Back.8af6b2fe.svg": "/multichain-nft-dashboard/static/media/Back.8af6b2fe.svg",
     "static/media/Covalent-Background_5.cc7bc02b.jpg": "/multichain-nft-dashboard/static/media/Covalent-Background_5.cc7bc02b.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.7e8a3bea.js",
     "static/js/2.edd8f32f.chunk.js",
-    "static/css/main.3d3b2c2e.chunk.css",
+    "static/css/main.0923835a.chunk.css",
     "static/js/main.d5b5cf4c.chunk.js"
   ]
 }
