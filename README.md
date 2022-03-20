@@ -12,7 +12,7 @@ That's it!
 
 
 ## Live Demo
-1. [Live on GitHub pages](https://covalenthq.github.io/nft-dashboard-template/)
+1. [Live on GitHub pages](https://github.com/sconkfinkle/multichain-nft-dashboard)
 
 2. [Live on Replit](https://replit.com/@Covalent-Templates/NFT-Collection-Dashboard-Template?v=1)
 
