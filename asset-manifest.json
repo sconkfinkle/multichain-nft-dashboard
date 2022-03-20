@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/multichain-nft-dashboard/static/css/main.0923835a.chunk.css",
-    "main.js": "/multichain-nft-dashboard/static/js/main.d5b5cf4c.chunk.js",
-    "main.js.map": "/multichain-nft-dashboard/static/js/main.d5b5cf4c.chunk.js.map",
+    "main.js": "/multichain-nft-dashboard/static/js/main.52ae711d.chunk.js",
+    "main.js.map": "/multichain-nft-dashboard/static/js/main.52ae711d.chunk.js.map",
     "runtime-main.js": "/multichain-nft-dashboard/static/js/runtime-main.7e8a3bea.js",
     "runtime-main.js.map": "/multichain-nft-dashboard/static/js/runtime-main.7e8a3bea.js.map",
     "static/js/2.edd8f32f.chunk.js": "/multichain-nft-dashboard/static/js/2.edd8f32f.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.7e8a3bea.js",
     "static/js/2.edd8f32f.chunk.js",
     "static/css/main.0923835a.chunk.css",
-    "static/js/main.d5b5cf4c.chunk.js"
+    "static/js/main.52ae711d.chunk.js"
   ]
 }
