@@ -54,7 +54,7 @@ function App() {
       </HashRouter>
     </Router>
     <div className="logo">
-      <img src={Logo}></img>
+     {/* <img src={Logo}></img> */}
     </div>
     </div>
   );
